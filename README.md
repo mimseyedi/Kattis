@@ -1,8 +1,8 @@
 # kattis
 In this repository I have included the problems I have solved from the Kattis website.
 - All problems are solved with **Python** language.
-- These solutions are **definitely not the best solutions** and you can challenge yourself by writing better and more efficient code.
 - Most of these problems have low scores and are classified as **simple and moderate** problems.
+- These solutions are **definitely not the best solutions** and you can challenge yourself by writing better and more efficient code.
 
 ## What is Kattis?
 - Kattis helps companies to recruit and attract the best programmers with its dynamic challenge platform.
