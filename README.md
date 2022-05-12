@@ -1,4 +1,11 @@
 # kattis
-In this repository I have included the problems I have solved from the kattis website in Python
+In this repository I have included the problems I have solved from the Kattis website in Python
 
-[what is kattis?](https://open.kattis.com/)
+## What is Kattis?
+- Kattis helps companies to recruit and attract the best programmers with its dynamic challenge platform.
+
+- With Kattis companies can challenge developers before letting them enter the recruitment process saving time. Kattis can also be used to add code challenges to job-pages or for quality tests later in the recruitment process. By using Kattis code challenges everyone gets an equal chance and companies brand themselves as an equal opportunity workplace.
+
+- Kattis is also used in the world championships in programming(ICPC) and several other competitions all over the globe.
+- 
+###[Kattis](https://open.kattis.com/)
